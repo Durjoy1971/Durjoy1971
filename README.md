@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Durjoy Barua.
 - 👀 I’m interested in Competitive Programming and also liked to do web development.
 - 🌱 I’m currently learning HTML, CSS & JAVASCRIPT.
-- 🌱 I already worked C++, Java and SQL.
+- 🌱 I already worked with C++, Java and SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can knock me in c201012@ugrad.iiuc.ac.bd
 
