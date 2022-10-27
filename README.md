@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS & JAVASCRIPT.
 - 🌱 I already worked with C++, Java and SQL.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can knock me in c201012@ugrad.iiuc.ac.bd
+- 📫 You can knock me in durjoybarua1971@gmail.com
 
 <!---
 Durjoy1971/Durjoy1971 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
