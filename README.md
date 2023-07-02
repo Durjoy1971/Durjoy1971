@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **HTML + CSS && GIT + GITHUB --> JS**
 
-- 👨‍💻 All of my projects are available at [will update soon](will update soon)
+- 👨‍💻 All of my projects are available at [On Work]
 
 - 📫 How to reach me **durjoybarua1971@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/resume-durjoy1971](https://tinyurl.com/resume-durjoy1971)
+- 📄 Know about my experiences [Here](https://tinyurl.com/resume-durjoy1971)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durjoy1971&show_icons=true&locale=en&layout=compact" alt="durjoy1971" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durjoy1971&show_icons=true&title_color=000000&text_color=000000&bg_color=000000&locale=en" alt="durjoy1971" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durjoy1971&" alt="durjoy1971" /></p>
