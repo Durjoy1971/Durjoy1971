@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML - CSS - JS && GIT + GITHUB**
 
-- 👨‍💻 All of my projects are available at [On Work]
+- 👨‍💻 All of my projects are available at [Portfolio will be available soon]
 
 - 📫 How to reach me **durjoybarua1971@gmail.com**
 
