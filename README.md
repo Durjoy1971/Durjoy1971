@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durjoy Barua</h1>
-<h3 align="center">A passionate competitive programmer who is currently exploring web development</h3>
+<h3 align="center">A passionate competitive programmer who is currently exploring full stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durjoy1971&label=Profile%20views&color=f5ee14&style=plastic" alt="durjoy1971" /> </p>
 
