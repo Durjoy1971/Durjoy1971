@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durjoy1971&label=Profile%20views&color=f5ee14&style=plastic" alt="durjoy1971" /> </p>
 
-- 🌱 I’m currently learning **HTML - CSS - JS && GIT + GITHUB**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [Portfolio will be available soon]
 
