@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **durjoybarua1971@gmail.com**
 
-- 📄 Resume [Here](https://tinyurl.com/resumes-durjoy1971)
+- 📄 Resume [Here](https://drive.google.com/file/d/13Y-NxIwdtoOgBvTEwErfCNLXpgofgt6w/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
