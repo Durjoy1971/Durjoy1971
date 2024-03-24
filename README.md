@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript** & **Next.JS**
 
-- 👨‍💻 Check My Portfolio: [https://durjoybarua.netlify.app/home]
+- 👨‍💻 Check My Portfolio: [Here](https://durjoybarua.netlify.app/home)
 
 - 📫 How to reach me **durjoybarua1971@gmail.com**
 
