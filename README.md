@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durjoy1971&label=Profile%20views&color=f5ee14&style=plastic" alt="durjoy1971" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript** & **Next.JS**
 
-- 👨‍💻 All of my projects are available at [Portfolio will be available soon]
+- 👨‍💻 Check My Portfolio: [https://durjoybarua.netlify.app/home]
 
 - 📫 How to reach me **durjoybarua1971@gmail.com**
 
