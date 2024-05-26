@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durjoy1971&label=Profile%20views&color=f5ee14&style=plastic" alt="durjoy1971" /> </p>
 
-- 🌱 I’m currently learning **TypeScript** & **React Native**
+- 🌱 I’m currently learning **Java** & **React Native**
 
 - 👨‍💻 Check My Portfolio: [Here](https://durjoybarua.netlify.app/home)
 
