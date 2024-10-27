@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durjoy1971&label=Profile%20views&color=0b9c28&style=plastic" alt="durjoy1971" /> </p>
 
-- 🌱 I’m currently learning **Adonis JS && React Native**
+- 🌱 I’m currently learning **Adonis JS && MY SQL**
 
 - 👨‍💻 Check My Portfolio: [Here](https://durjoybarua.netlify.app/home)
 
