@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Durjoy Barua</h1>
-<h3 align="center">Software Engineer | Full-Stack | TypeScript | React | MySQL | Adonis JS </h3>
+<h3 align="center">Software Engineer | Full-Stack | TypeScript | React | Next JS | MySQL | Express JS | Adonis JS | Django | FastApi </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durjoy1971&label=Profile%20views&color=0b9c28&style=plastic" alt="durjoy1971" /> </p>
 
-- 🌱 I’m currently learning **LLD & NextJS**
+- 🌱 I’m currently learning **Python, Express & Django**
 
 - 👨‍💻 Check My Portfolio: [Here](https://durjoybarua.netlify.app/home)
 
